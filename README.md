@@ -1,6 +1,6 @@
 # SwiftGoogleTranslateAPI
 
-### Using Graphiti
+### Using SwiftGoogleTranslateAPI
 
 Add SwiftGoogleTranslateAPI to your `Package.swift`
 
