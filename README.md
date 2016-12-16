@@ -2,7 +2,7 @@
 
 ### Using Graphiti
 
-Add Graphiti to your `Package.swift`
+Add SwiftGoogleTranslateAPI to your `Package.swift`
 
 ```swift
 import PackageDescription
